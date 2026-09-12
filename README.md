@@ -43,3 +43,10 @@ Student-Portfolio/
 ├── index.html
 ├── style.css
 └── README.md
+## Live Demo
+
+[View My Portfolio](https://subhadipjava.github.io/Student-Portfolio/)
+
+## Author
+
+Subhadip Panda
